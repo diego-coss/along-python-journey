@@ -1,6 +1,6 @@
 # Project Title: along-python-journey
 
-These are files im using to learn python.
+These are files I'm using to learn python.
 
 ## Requirements
 
